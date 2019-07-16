@@ -1414,30 +1414,34 @@ body {
   box-shadow: none !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/interior-design-permai-gardens-villas-penang-malaysia-1-1920x1080.jpeg");
 }
-.cid-rwnjVUcPkX {
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  text-align: center;
+}
+.cid-rwpqSs7xo8 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rwnjVUcPkX h3 {
+.cid-rwpqSs7xo8 h3 {
   text-align: center;
 }
-.cid-rwnjVUcPkX .mbr-section-subtitle {
+.cid-rwpqSs7xo8 .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-rwnjVUcPkX .mbr-content-text {
+.cid-rwpqSs7xo8 .mbr-content-text {
   color: #767676;
 }
-.cid-rwnjVUcPkX .panel-item {
+.cid-rwpqSs7xo8 .panel-item {
   background: #ffffff;
 }
-.cid-rwnjVUcPkX .card {
+.cid-rwpqSs7xo8 .card {
   word-wrap: break-word;
 }
-.cid-rwnjVUcPkX .mbr-iconfont {
+.cid-rwpqSs7xo8 .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
 }
@@ -1502,107 +1506,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rwnirjeuqD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rwnirjeuqD .title {
-  margin-bottom: 2rem;
-}
-.cid-rwnirjeuqD .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rwnirjeuqD a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rwnirjeuqD a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rwnirjeuqD textarea.form-control {
-  min-height: 188px;
-}
-.cid-rwniwsiU7d {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rwniwsiU7d [class^="socicon-"]:before,
-.cid-rwniwsiU7d [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-rwniwsiU7d .btn-social {
-  border-color: #149dcc;
-}
-.cid-rwniwsiU7d .btn-social:hover {
-  background: #149dcc;
-}
-.cid-rwniwsiU7d .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-rwniwsiU7d .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rwniCWCYn1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-facebook {
-  background: #3e5b98;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-twitter {
-  background: #4da7de;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-googleplus {
-  background: #dd4b39;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-vkontakte {
-  background: #5a7fa6;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-odnoklassniki {
-  background: #f48420;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-pinterest {
-  background: #c92619;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .socicon-bg-mail {
-  background: #134785;
-  color: #ffffff;
-}
-.cid-rwniCWCYn1 .btn-social {
-  border: none !important;
-}
-.cid-rwniCWCYn1 [class^="socicon-"]:before,
-.cid-rwniCWCYn1 [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-@media (max-width: 767px) {
-  .cid-rwniCWCYn1 .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rwniH2xVnJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
-}
-.cid-rwniH2xVnJ .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
-}
-.cid-rwniH2xVnJ .social-list a:focus {
-  text-decoration: none;
 }
 .cid-rwnicO3IzM {
   padding-top: 60px;
